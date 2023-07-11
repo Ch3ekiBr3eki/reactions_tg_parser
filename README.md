@@ -10,7 +10,7 @@
 
 ## About
 
-Parser written at a hackathon to get reactions from telegram posts. Output data is in csv format. Parser is written on Pyrogram library and requires authorization in tg account before using it.
+Parser written at a hackathon to get reactions and statisics from telegram channel. Output data is in csv format. Parser is written on Pyrogram library and requires authorization in tg account before using it.
 
 ## Developers
 
