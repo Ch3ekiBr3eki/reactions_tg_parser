@@ -9,9 +9,9 @@
 </p>
 
 ## About
-Парсер, написанный на хакатоне для получения реакций и статистики из telegram-канала. Выходные данные представлены в формате csv. Парсер написан на библиотеке Pyrogram и требует авторизации в аккаунте tg перед использованием.
-
 Parser written at a hackathon to get reactions and statisics from telegram channel. Output data is in csv format. Parser is written on Pyrogram library and requires authorization in tg account before using it.
+
+Парсер, написанный на хакатоне для получения реакций и статистики из telegram-канала. Выходные данные представлены в формате csv. Парсер написан на библиотеке Pyrogram и требует авторизации в аккаунте tg перед использованием.
 
 ## Documentation 
 To start the parser you need to fill in the user_info file, which contains information about your telegram account, as well as the name of the telegram channel from where you want to get statistics and reactions from messages. 
