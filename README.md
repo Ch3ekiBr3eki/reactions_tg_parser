@@ -22,4 +22,4 @@ Then you can run csv_final and get ready 2 csv files with reactions and statisti
 
 ## Developers
 
-- [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki)https://github.com/Ch3ekiBr3eki)
+- [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki))
